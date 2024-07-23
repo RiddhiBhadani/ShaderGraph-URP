@@ -1,2 +1,2 @@
 # ShaderGraph-URP
- ShaderGraph using URP in Unity
+ ShaderGraph with the Universal Render Pipeline(URP) in Unity
