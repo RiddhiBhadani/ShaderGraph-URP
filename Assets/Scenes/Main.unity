@@ -240,7 +240,7 @@ GameObject:
   - component: {fileID: 197374689}
   - component: {fileID: 197374688}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Sphere-BaseColorShader
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1246,7 +1246,7 @@ GameObject:
   - component: {fileID: 1001594931}
   - component: {fileID: 1001594930}
   m_Layer: 0
-  m_Name: Cube-AlphaShader
+  m_Name: Cube-AlphaTransparancyShader
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1351,7 +1351,7 @@ GameObject:
   - component: {fileID: 1052059795}
   - component: {fileID: 1052059794}
   m_Layer: 0
-  m_Name: Cube-AlphaShader (1)
+  m_Name: Cube-DitherShader
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1910,7 +1910,7 @@ GameObject:
   - component: {fileID: 1940275363}
   - component: {fileID: 1940275362}
   m_Layer: 0
-  m_Name: TextureSample - ShaderGraph
+  m_Name: Cube-TextureUVMappingShader
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
